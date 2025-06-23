@@ -1,3 +1,5 @@
+![Demo GIF](./Screenshots/tata_nex.gif)
+
 # TATA NextSight Retail Analytics Dashboard
 
 This project is a business intelligence solution developed using **Power BI**, **MySQL**, **Excel**, and **Git** to analyze and visualize sales and revenue data for leading TATA retail brands — **Croma**, **Star Bazaar**, and **Tata Cliq**.
